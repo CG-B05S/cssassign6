@@ -32,6 +32,7 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    top: auto;
 }
 .heading{
     font-size: 5rem;
@@ -39,11 +40,11 @@
     
 }
 .saha{
-    margin: 0px 10px 10px 120px; 
+    margin: 0px 10px 180px 120px; 
 }
 .inside{
     color: white;
-    padding:10px;
+    padding: 20px 20px 20px 0;
 }
 .button{
     height: 5vh;
